@@ -1,0 +1,35 @@
+{
+  "name": "myDefi",
+  "logoURI": "https://umaproject.org/assets/images/UMA_square_red_logo_circle.png",
+  "keywords": ["defi"],
+  "timestamp": "2020-11-23T01:40:34.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828",
+      "name": "UMA",
+      "symbol": "UMA",
+      "decimals": 18
+    },
+    {
+      "name":"CC10/WETH",
+      "address":"0x2701eA55b8B4f0FE46C15a0F560e9cf0C430f833",
+      "symbol":"UNI-V2",
+      "decimals":18,
+      "chainId":1
+    },
+    {
+      "name":"WETH/DEFI5",
+      "address":"0x8dCBa0B75c1038c4BaBBdc0Ff3bD9a8f6979Dd13",
+      "symbol":"UNI-V2",
+      "decimals":18,
+      "chainId":1
+    },
+    {
+        "name":"NDX/WETH",
+        "address":"0x46af8AC1b82F73dB6Aacc1645D40c56191ab787b",
+        "symbol":"UNI-V2",
+        "decimals":18,
+        "chainId":1
+    }
+}
